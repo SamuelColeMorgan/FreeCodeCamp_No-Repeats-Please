@@ -8,7 +8,7 @@ function getStringWithSwappedChars(string, idx1, idx2) {
 
 // -------------------------------------
 
-// get string with swapped characters
+// detect if string has consecutive repeats
 
 function stringHasConsecutiveRepeats(string) {
     let currentChar, nextChar;
